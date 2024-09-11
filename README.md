@@ -1,4 +1,4 @@
-# bmstu_dp_cp
+# bmstu_dB_cp
 
 bmstu, IU7-6, databases course project 2022
 
